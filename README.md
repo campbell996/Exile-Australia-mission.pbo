@@ -19,8 +19,10 @@ Step 1.  Install a exile server like usual.
 Step 2.  Place my Exile.Australia.pbo file in your << mpmissions >> folder.
   
 Step 3.  Open your << @ExileServer >> folder and open your << config.cfg >> file and at the bottom of that file you need to change it like example below.
----------------------------------------------------------------------------------------------------------------------------
-EXAMPLE!!! BEFORE..   
+
+
+EXAMPLE!!! BEFORE.. 
+
 class Missions
 {
 	class Exile
