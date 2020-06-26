@@ -28,13 +28,6 @@ class Missions
 	{
 		template = Exile.Malden;  // Exile.Namalsk, Exile.Altis, Exile.Tanoa, ExileEscape.Altis, ExileEscape.Tanoa
 
-		// do NOT use custom difficulties!
-		// Use either ExileRegular or ExileHardcore
-		// or you will break Exile!
-		difficulty = "ExileRegular";
-	};
-};
-
 EXAMPLE!!! AFTER..
 
 class Missions
@@ -42,13 +35,6 @@ class Missions
 	class Exile
 	{
 		template = Exile.Australia;  // Exile.Namalsk, Exile.Altis, Exile.Tanoa, ExileEscape.Altis, ExileEscape.Tanoa
-
-		// do NOT use custom difficulties!
-		// Use either ExileRegular or ExileHardcore
-		// or you will break Exile!
-		difficulty = "ExileRegular";
-	};
-};
 
 
 Step 4.  Add >>> @Exile;@ExileServer;@Australia;@PLPMarkers; <<< to your server start perameters.
