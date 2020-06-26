@@ -43,3 +43,5 @@ Step 4.  Add >>> @Exile;@ExileServer;@Australia;@PLPMarkers; <<< to your server 
 Enjoy it should work.
 
 If you experience any problems please leave a comment here.
+
+Edit it how you want. this is just the basic australia mission.
