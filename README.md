@@ -40,7 +40,7 @@ class Missions
 
 Step 4.  Add >>> @Exile;@ExileServer;@Australia;@PLPMarkers; <<< to your server start perameters.
 
-Enjoy it should work.
+Enjoy. it should work.
 
 If you experience any problems please leave a comment here.
 
