@@ -19,15 +19,14 @@ Step 1.  Install a exile server like usual.
 Step 2.  Place my Exile.Australia.pbo file in your << mpmissions >> folder.
   
 Step 3.  Open your << @ExileServer >> folder and open your << config.cfg >> file and at the bottom of that file you need to change it like example below.
-
-EXAMPLE!!! BEFORE..
-
+---------------------------------------------------------------------------------------------------------------------------
+EXAMPLE!!! BEFORE..   
 class Missions
 {
 	class Exile
 	{
 		template = Exile.Malden;  // Exile.Namalsk, Exile.Altis, Exile.Tanoa, ExileEscape.Altis, ExileEscape.Tanoa
-
+----------------------------------------------------------------------------------------------------------------------------
 EXAMPLE!!! AFTER..
 
 class Missions
@@ -35,7 +34,7 @@ class Missions
 	class Exile
 	{
 		template = Exile.Australia;  // Exile.Namalsk, Exile.Altis, Exile.Tanoa, ExileEscape.Altis, ExileEscape.Tanoa
-
+-------------------------------------------------------------------------------------------------------------------------------
 
 Step 4.  Add >>> @Exile;@ExileServer;@Australia;@PLPMarkers; <<< to your server start perameters.
 
